@@ -1,4 +1,4 @@
-# IPl-data-analysis
+# IPL-data-analysis
 This project is about analyzing cricket match data using Python. It uses a dataset from the first innings of a match to understand how teams scored runs.
 
 # What Project Does ?:
